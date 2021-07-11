@@ -25,11 +25,13 @@ This project require NodeJS v12
 Clone this project
 
 ```bash
+> apt update && apt upgrade
+> apt install git -y
+> apt install nodejs -y
+> apt install ffmpeg -y
 > git clone https://github.com/fahmicog/fambot
 > cd fambot
 ```
-
-You need to install Libreoffice to use doctopdf command
 
 Install the dependencies:
 
@@ -47,20 +49,49 @@ Run the Whatsapp bot
 After running it you need to scan the QR
 
 ### Information
-- Change Apikey on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L1)
+- Change Apikey on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L2)
+- Change Name Bot on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L3)
+- Change Fake on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L4)
 - Change ownerNumber on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L5)
-- Change groupLimit on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L3)
-- Change memberLimit on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L4)
+- Change Limit on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L6)
+- Change memberLimit on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L7)
 - Get Api Fahmi on [this website](http://fahmiapi.herokuapp.com)
 ---
 
 ## Features
 
-Informasi
-- donate or donasi
-- ping or speed
-- owner
-- stat
+List Menu
+- botmenu
+- premiummenu
+- makermenu
+- islammenu
+- infomenu
+- tagmenu
+- convertmenu
+- ownermenu
+- nulismenu
+- downloadmenu
+- stalkermenu
+- editormenu
+- asupanmenu
+- animemenu
+- nsfwmenu
+- funmenu
+- stikermenu
+- primbonmenu
+- searchmenu
+- beritamenu
+- mediamenu
+- grupmenu
+- toolsmenu
+- othermenu
+
+---
+
+## Danate
+- [Paypal](https://paypal.me/fahmicog)
+- [Saweria](https://saweria.co/fahmicog)
+- [Trakteer](https://trakteer.id/fahmicog)
 
 ---
 
