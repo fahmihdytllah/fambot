@@ -48,7 +48,7 @@ Run the Whatsapp bot
 ```
 
 After running it you need to scan the QR
----
+
 
 ### Tutorial Install
 - On Youtube
