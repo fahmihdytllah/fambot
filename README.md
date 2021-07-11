@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/fahmicog/fambot/main/src/image/thumb.jpeg" height="128"/>
 </p>
 <p align="center">
-<a href="https://github.com/fahmicog/fambot"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Sero Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://github.com/fahmicog/fambot"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Fam Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
   <br>
 Multipurpose WhatsApp Bot using adiwajshing/Baileys library!<hr>
 </p>
