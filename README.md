@@ -27,6 +27,7 @@ Clone this project
 ```bash
 > apt update && apt upgrade
 > apt install git -y
+> apt install nano -y
 > apt install nodejs -y
 > apt install ffmpeg -y
 > git clone https://github.com/fahmicog/fambot
