@@ -19,7 +19,7 @@ Multipurpose WhatsApp Bot using adiwajshing/Baileys library!<hr>
 
 ## Getting Started
 
-This project require NodeJS v12
+This project require NodeJS Latest
 
 ### Install
 Clone this project
