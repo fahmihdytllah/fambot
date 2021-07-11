@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://github.com/fahmicog/fambot"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Sero Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
   <br>
-Multipurpose WhatsApp Bot using open-wa/wa-automate-nodejs library!<hr>
+Multipurpose WhatsApp Bot using adiwajshing/Baileys library!<hr>
 </p>
 <h3 align="center">Made with ❤️ by</h3>
 <p align="center">
@@ -15,9 +15,6 @@ Multipurpose WhatsApp Bot using open-wa/wa-automate-nodejs library!<hr>
 <a href="https://github.com/fahmicog/fambot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/fahmicog/fambot?color=red&style=flat-square"></a>
 <a href="https://github.com/fahmicog/fambot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/fahmicog/fambot?color=red&style=flat-square"></a>
 <a href="https://github.com/fahmicog/fambot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/fahmicog/fambot?label=watchers&color=blue&style=flat-square"></a>
-  <br><a href="https://www.codefactor.io/repository/github/fahmicog/fambot"><img src="https://www.codefactor.io/repository/github/fahmicog/fambot/badge" alt="CodeFactor" /></a> <a href="https://sonarcloud.io/dashboard?id=fahmicog_fambot"><img src="https://sonarcloud.io/api/project_badges/measure?project=fahmicog_fambot&metric=alert_status" alt="SonarCloud" /></a>
-  <br>
-<a href="https://github.com/open-wa/wa-automate-nodejs"><img src="https://raw.githubusercontent.com/open-wa/wa-automate-nodejs/master/resources/hotfix-logo.png" height="64"/></a>
 </p>
 
 ## Getting Started
@@ -54,7 +51,7 @@ After running it you need to scan the QR
 - Change ownerNumber on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L5)
 - Change groupLimit on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L3)
 - Change memberLimit on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L4)
-- Get Api Fahmi on [this website](https://rest.farzain.com)
+- Get Api Fahmi on [this website](http://fahmiapi.herokuapp.com)
 ---
 
 ## Features
