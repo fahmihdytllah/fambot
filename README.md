@@ -21,7 +21,7 @@ Multipurpose WhatsApp Bot using adiwajshing/Baileys library!<hr>
 
 This project require NodeJS Latest
 
-### Install
+### Installation
 Clone this project
 
 ```bash
@@ -38,6 +38,7 @@ Install the dependencies:
 ```bash
 > npm install
 ```
+---
 
 ### Usage
 Run the Whatsapp bot
@@ -47,6 +48,12 @@ Run the Whatsapp bot
 ```
 
 After running it you need to scan the QR
+---
+
+### Tutorial Install
+- On Youtube
+- On Article blog
+---
 
 ### Information
 - Change Apikey on [this section](https://github.com/fahmicog/fambot/blob/main/config.json#L2)
